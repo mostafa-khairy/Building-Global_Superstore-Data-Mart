@@ -16,3 +16,6 @@ extract data from Global_Superstore Table, create star schema then load data aft
 
 * Informatica PowerCenter installed and configured
 * Access to a database where the data mart and audit table will be created
+
+# Star Schema
+![image](https://github.com/mostafa-khairy/Building-Global_Superstore-Data-Mart/assets/87584678/5d699ffd-491e-45c5-97a4-48a7048b5545)
